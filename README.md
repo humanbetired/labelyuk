@@ -1,6 +1,6 @@
 # Aplikasi Pelabelan Data Teks Berbasis Web
 
-Link: labelyuk.vercel.app
+Link: https://labelyuk.vercel.app/
 
 Proyek ini adalah aplikasi sederhana berbasis HTML, TailwindCSS, dan JavaScript murni untuk melakukan pelabelan data teks secara manual. Aplikasi ini dirancang untuk membantu proses labeling dataset seperti sentimen (Positive, Negative, Neutral) atau kategori lain sesuai kebutuhan pengguna.
 
